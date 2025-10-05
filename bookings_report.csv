@@ -1,0 +1,6 @@
+booking_id,guest_name,room_type,room_number,price,check_in,check_out,status,created_at,cancelled_at
+5,sathwi,Single,S101,1500.0,2025-10-05,2025-10-10,active,2025-10-05T08:08:14.195153,
+4,bunnyrinky,Single,S101,1500.0,2025-7-3,2025-7-5,active,2025-10-04T06:17:15.329099,
+3,bunnyrinky,Double,D202,2500.0,2025-7-3,2025-7-5,active,2025-10-04T06:17:06.449266,
+2,rishi,Double,D201,2500.0,2025-7-3,2025-7-5,active,2025-10-04T05:43:23.544808,
+1,rishi,Double,D201,2500.0,2025-9-3,2025-9-5,active,2025-10-03T10:53:23.183903,

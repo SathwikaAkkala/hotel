@@ -1,0 +1,8 @@
+Bookings Report
+Generated: 2025-10-05T08:08:40.070015
+
+ID: 5 | Guest: sathwi | Room: Single/S101 | 2025-10-05 -> 2025-10-10 | Status: active | Cancelled At: 
+ID: 4 | Guest: bunnyrinky | Room: Single/S101 | 2025-7-3 -> 2025-7-5 | Status: active | Cancelled At: 
+ID: 3 | Guest: bunnyrinky | Room: Double/D202 | 2025-7-3 -> 2025-7-5 | Status: active | Cancelled At: 
+ID: 2 | Guest: rishi | Room: Double/D201 | 2025-7-3 -> 2025-7-5 | Status: active | Cancelled At: 
+ID: 1 | Guest: rishi | Room: Double/D201 | 2025-9-3 -> 2025-9-5 | Status: active | Cancelled At: 
